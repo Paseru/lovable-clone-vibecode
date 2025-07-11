@@ -13,8 +13,8 @@ Before you begin, please make sure to **replace the API keys** in your `.env` fi
 Add these keys to your `.env` file as follows:
 
 ``` .env
-ANTHROPIC_API_KEY=your_anthropic_api_key
-DAYTONA_API_KEY=your_daytona_api_key
+ANTHROPIC_API_KEY=votre_clé_anthropic_ici
+DAYTONA_API_KEY=votre_clé_daytona_ici
 ```
 
 ## Install & Run
